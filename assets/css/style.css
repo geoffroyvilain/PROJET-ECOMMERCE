@@ -1,0 +1,20 @@
+body {
+  margin-top: 50px;
+}
+
+#logo {
+  margin-bottom: 50px;
+}
+
+.category {
+  background-color: orange;
+}
+
+.product {
+  padding-top: 55px;
+  padding-bottom: 55px;
+}
+
+#footer {
+  background-color: grey;
+}
